@@ -46,3 +46,9 @@ Pyraminx: Yes
 ao5: 1m59s  
 ao12: 2m  
 ao25: 2m4s
+
+
+# Additional Files
+ao.cs is a CSharp file that can be compiled to an executable using `csc ao.cs` with .net core installed.  
+It calculates ao(x) with minutes and seconds.  
+It is just a very simple small script I wrote for conveniency.
